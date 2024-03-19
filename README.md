@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Rimalkhan.
+- 👀 I’m interested in exploring new technologies, coding, and digital art.
+- 🌱 I’m currently learning machine learning algorithms and techniques.
+- 💞️ I’m looking to collaborate on open-source projects related to AI, web development, or creative coding.
+- 📫 You can reach me via email at (rimalk4@gmail.com) or through direct messages on GitHub.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy experimenting with generative art and music composition using code!
